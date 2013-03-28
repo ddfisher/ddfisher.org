@@ -1,4 +1,6 @@
+exclude: [README.md]
 auto: true
+pygments: true
+permalink: /:title
 markdown: rdiscount
-permalink: /:year/:month/:day/:title
 rdiscount extensions: [smart]
