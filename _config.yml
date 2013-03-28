@@ -1,5 +1,4 @@
 exclude: [README.md]
-auto: true
 pygments: true
 permalink: /:title
 markdown: rdiscount
